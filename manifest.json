@@ -1,7 +1,7 @@
 {
-    "Name": "Example Repository",
-    "About": "This is the example repository.",
+    "Name": "Hearth OS Repository",
+    "About": "This is the main repo.",
     
     "Owner": "Hearth OS",
-    "URL": "https://hearth-os.github.io/Hearth-OS-Package-Repository/"
+    "URL": "https://hearth-os.github.io/HOP-Repo/"
 }
