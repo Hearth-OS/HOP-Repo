@@ -5,4 +5,6 @@
     "About": "To test the HOP Repo",
     "Developer": "Hearth OS",
     "Website": "https://hearth-os.github.io/"
+    
+    "AppID": "com.hearth-os.test"
 }
