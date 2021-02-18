@@ -1,0 +1,10 @@
+{
+    "Name": "XFCE Desktop",
+    "Version": "4",
+    
+    "About": "Unofficial XFCE Desktop Port",
+    "Developer": "XFCE Development Team (Ported by Mr. Hallway)",
+    "Website": "https://xfce.org/",
+    
+    "AppID": "com.xfce-hearthos.desktop"
+}
