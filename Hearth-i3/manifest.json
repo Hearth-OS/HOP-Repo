@@ -1,0 +1,11 @@
+
+{
+    "Name": "Hearth i3",
+    "Version": "1",
+    
+    "About": "The i3 window manager for Hearth OS.",
+    "Developer": "marauder316 (Oyo)",
+    "Website": "https://i3wm.org/",
+    
+    "AppID": "com.i3-hearth.desktop"
+}
